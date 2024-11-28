@@ -13,15 +13,25 @@ This project provides a Dockerized setup for Apache Airflow, utilizing a CeleryE
 
 The project is organized as follows:
 .
+
 ├── dags
+
 │ └── [DAG files here]
+
 ├── logs
+
 │ └── [Airflow logs]
+
 ├── scripts
+
 │ └── [Python scripts for data processing]
+
 ├── data
+
 │ └── [Data files]
+
 ├── docker-compose.yaml
+
 └── .env
 
 ## Environment Variables
