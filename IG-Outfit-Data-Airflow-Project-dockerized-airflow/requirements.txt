@@ -1,0 +1,6 @@
+pymongo
+instaloader
+tqdm
+papermill
+jupyter
+ipykernel
